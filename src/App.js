@@ -14,19 +14,19 @@ function App() {
     console.log(res.data)
     setCoins(res.data);
   }
-  
+
   useEffect (()=> {
     getData();
   },[])
 
+ 
   return (
     <div className="container">
       <div className="row">
-        <input type="text" placeholder="search a coin" className='form-control bg-dark text-light border-0 mt-4 text-center' 
-        onChange={e => setSearch(e.target.value)}/>
-        
-        <div>{coins.map}</div>
+        <input type="text" placeholder="search your crypto" className='form-control bg-dark text-light border-0 mt-4 text-center' 
+        onChange={e => setSearch(e.target.value.toLowerCase())}/>
         <TableCoins coins={coins} search={search}/>
+        
       </div>
     </div>
   );
