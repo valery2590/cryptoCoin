@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/cryptoCoin/static/css/main.a617e044.chunk.css",
-    "main.js": "/cryptoCoin/static/js/main.15f486d3.chunk.js",
-    "main.js.map": "/cryptoCoin/static/js/main.15f486d3.chunk.js.map",
+    "main.css": "/cryptoCoin/static/css/main.d1e39ebc.chunk.css",
+    "main.js": "/cryptoCoin/static/js/main.7d15da3d.chunk.js",
+    "main.js.map": "/cryptoCoin/static/js/main.7d15da3d.chunk.js.map",
     "runtime-main.js": "/cryptoCoin/static/js/runtime-main.c6db5b95.js",
     "runtime-main.js.map": "/cryptoCoin/static/js/runtime-main.c6db5b95.js.map",
-    "static/css/2.818011ed.chunk.css": "/cryptoCoin/static/css/2.818011ed.chunk.css",
+    "static/css/2.9082872e.chunk.css": "/cryptoCoin/static/css/2.9082872e.chunk.css",
     "static/js/2.05a805ea.chunk.js": "/cryptoCoin/static/js/2.05a805ea.chunk.js",
     "static/js/2.05a805ea.chunk.js.map": "/cryptoCoin/static/js/2.05a805ea.chunk.js.map",
     "static/js/3.3ff08b11.chunk.js": "/cryptoCoin/static/js/3.3ff08b11.chunk.js",
     "static/js/3.3ff08b11.chunk.js.map": "/cryptoCoin/static/js/3.3ff08b11.chunk.js.map",
     "index.html": "/cryptoCoin/index.html",
-    "static/css/2.818011ed.chunk.css.map": "/cryptoCoin/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.a617e044.chunk.css.map": "/cryptoCoin/static/css/main.a617e044.chunk.css.map",
+    "static/css/2.9082872e.chunk.css.map": "/cryptoCoin/static/css/2.9082872e.chunk.css.map",
+    "static/css/main.d1e39ebc.chunk.css.map": "/cryptoCoin/static/css/main.d1e39ebc.chunk.css.map",
     "static/js/2.05a805ea.chunk.js.LICENSE.txt": "/cryptoCoin/static/js/2.05a805ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6db5b95.js",
-    "static/css/2.818011ed.chunk.css",
+    "static/css/2.9082872e.chunk.css",
     "static/js/2.05a805ea.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.15f486d3.chunk.js"
+    "static/css/main.d1e39ebc.chunk.css",
+    "static/js/main.7d15da3d.chunk.js"
   ]
 }
