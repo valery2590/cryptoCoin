@@ -14,12 +14,11 @@ const CoinRow = ({ coin, index }) => {
     <>
       <tr onClick={clicked}>
         <td>{index}</td>
-        <td>
+        <td className="name-box-container">
           <img
             src={coin.image}
             alt={coin.name}
-            style={{ width: "3%" }}
-            className="img-fluid me-4"
+            className="img-fluid"
           />
           <span>{coin.name}</span>
         </td>

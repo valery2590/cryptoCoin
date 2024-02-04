@@ -1,8 +1,18 @@
- /* .extra-info-box{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    width: 100%;
-    justify-content: space-between;
-} 
- */
+
+
+
+ @media ( min-width: 600px ){
+    .name-box-container img{
+        width: 3%;
+        margin-right: 10px;
+    }
+ }
+
+ @media ( max-width: 601px ){
+    .name-box-container img{
+        width: 20%;
+        margin-right: 10px;
+    }
+ }
+
+
