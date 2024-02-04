@@ -1,7 +1,7 @@
 import React from 'react';
 import CoinRow from './CoinRow';
 
-const titles = ['#', 'coin', 'Price', 'Price Change']
+const titles = ['#', 'coin', 'Price', 'Price Change', 'Last time updated']
 
 const TableCoins = ({coins, search}) => {
 
