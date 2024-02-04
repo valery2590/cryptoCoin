@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/cryptoCoin/static/css/main.80cb6948.chunk.css",
-    "main.js": "/cryptoCoin/static/js/main.2879302f.chunk.js",
-    "main.js.map": "/cryptoCoin/static/js/main.2879302f.chunk.js.map",
-    "runtime-main.js": "/cryptoCoin/static/js/runtime-main.852a6ce1.js",
-    "runtime-main.js.map": "/cryptoCoin/static/js/runtime-main.852a6ce1.js.map",
-    "static/css/2.9082872e.chunk.css": "/cryptoCoin/static/css/2.9082872e.chunk.css",
-    "static/js/2.1902d006.chunk.js": "/cryptoCoin/static/js/2.1902d006.chunk.js",
-    "static/js/2.1902d006.chunk.js.map": "/cryptoCoin/static/js/2.1902d006.chunk.js.map",
-    "static/js/3.8430930a.chunk.js": "/cryptoCoin/static/js/3.8430930a.chunk.js",
-    "static/js/3.8430930a.chunk.js.map": "/cryptoCoin/static/js/3.8430930a.chunk.js.map",
+    "main.js": "/cryptoCoin/static/js/main.a9607bf1.chunk.js",
+    "main.js.map": "/cryptoCoin/static/js/main.a9607bf1.chunk.js.map",
+    "runtime-main.js": "/cryptoCoin/static/js/runtime-main.e9b402ad.js",
+    "runtime-main.js.map": "/cryptoCoin/static/js/runtime-main.e9b402ad.js.map",
+    "static/css/2.7ec82a1e.chunk.css": "/cryptoCoin/static/css/2.7ec82a1e.chunk.css",
+    "static/js/2.d76f651f.chunk.js": "/cryptoCoin/static/js/2.d76f651f.chunk.js",
+    "static/js/2.d76f651f.chunk.js.map": "/cryptoCoin/static/js/2.d76f651f.chunk.js.map",
+    "static/js/3.266b10d2.chunk.js": "/cryptoCoin/static/js/3.266b10d2.chunk.js",
+    "static/js/3.266b10d2.chunk.js.map": "/cryptoCoin/static/js/3.266b10d2.chunk.js.map",
     "index.html": "/cryptoCoin/index.html",
-    "static/css/2.9082872e.chunk.css.map": "/cryptoCoin/static/css/2.9082872e.chunk.css.map",
+    "static/css/2.7ec82a1e.chunk.css.map": "/cryptoCoin/static/css/2.7ec82a1e.chunk.css.map",
     "static/css/main.80cb6948.chunk.css.map": "/cryptoCoin/static/css/main.80cb6948.chunk.css.map",
-    "static/js/2.1902d006.chunk.js.LICENSE.txt": "/cryptoCoin/static/js/2.1902d006.chunk.js.LICENSE.txt"
+    "static/js/2.d76f651f.chunk.js.LICENSE.txt": "/cryptoCoin/static/js/2.d76f651f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.852a6ce1.js",
-    "static/css/2.9082872e.chunk.css",
-    "static/js/2.1902d006.chunk.js",
+    "static/js/runtime-main.e9b402ad.js",
+    "static/css/2.7ec82a1e.chunk.css",
+    "static/js/2.d76f651f.chunk.js",
     "static/css/main.80cb6948.chunk.css",
-    "static/js/main.2879302f.chunk.js"
+    "static/js/main.a9607bf1.chunk.js"
   ]
 }
